@@ -14,7 +14,6 @@
         "johntaa/ar-php": "dev-master",
         "laravel/framework": "5.8.*",
         "laravel/tinker": "^1.0",
-        "gd": "*",
         "ext-gd": "*"
     },
     "require-dev": {
