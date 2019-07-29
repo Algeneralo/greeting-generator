@@ -10,6 +10,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="a8fe1bb0-60a3-422a-acec-2198708501ce" name="s" url="http://files.000webhost.com">
+        <fileTransfer host="files.000webhost.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
